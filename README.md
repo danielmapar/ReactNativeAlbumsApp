@@ -2,7 +2,8 @@
 
   - Install React Native CLI for the desired platform
     - https://facebook.github.io/react-native/docs/getting-started.html
-  - Intall dependencies and start app
+
+  - Install dependencies and start app
 ```sh
 $ git clone git@github.com:danielmapar/ReactNativeAlbumsApp.git
 $ cd ReactNativeAlbumsApp
