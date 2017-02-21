@@ -1,0 +1,19 @@
+# For Atom
+
+We need to install Linter, connect it to some specific Linter lib (ESLint for example)
+and supply the Linter plugin with a set of rules.
+
+npm install --save-dev eslint-config-rallycoding
+
+For ESLint we create a .eslintrc file and include a set of rules over there.
+We are using the "eslint-config-rallycoding" package. Having said that, we should
+look for rallycoding set of rules.
+
+# For Sublime 3
+
+npm install -g eslint
+
+Install package control (packager controller for Sublime 3):
+https://packagecontrol.io/installation
+
+npm install --save-dev eslint-config-rallycoding
