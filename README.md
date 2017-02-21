@@ -1,6 +1,6 @@
 # React Native - Albums App
 
-  - Install React Native CLI for the desired platform
+  - Setup React Native CLI for the desired platform
     - https://facebook.github.io/react-native/docs/getting-started.html
 
   - Install dependencies and start app
