@@ -13,8 +13,6 @@ or
 $ react-native run-android
 ```
 
-  - Optional - Install Linter and ESLint to modify this project
-    - We need to install Linter, connect it to some specific Linter library (ESLint for example)
-    and supply the Linter plugin with a set of rules.
-    - Install linter inside Atom
-    - Install linter-eslint inside Atom
+  - Optional - Install Linter and ESLint inside Atom to modify this project
+    - Install linter package
+    - Install linter-eslint package
