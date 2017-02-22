@@ -8,11 +8,10 @@
 $ git clone git@github.com:danielmapar/ReactNativeAlbumsApp.git
 $ cd ReactNativeAlbumsApp
 $ npm install
-$ react-native run-ios
-or
-$ react-native run-android
+$ react-native run-ios OR react-native run-android
 ```
 
-  - Optional - Install Linter and ESLint inside Atom to modify this project
-    - Install linter package
-    - Install linter-eslint package
+- Optional - Install Linter and ESLint inside Atom to modify this project following
+the standards inside ```.eslintrc```:
+  - Install linter package
+  - Install linter-eslint package
